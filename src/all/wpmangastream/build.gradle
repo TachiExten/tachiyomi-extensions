@@ -2,8 +2,8 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 ext {
-    extName = 'WP MangaStream (multiple sources)'
-    pkgNameSuffix = 'all.wpmangastream'
+    extName = 'WP MangaStream (Asura)'
+    pkgNameSuffix = 'all.wpmangastream.asura'
     extClass = '.WPMangaStreamFactory'
     extVersionCode = 47
     libVersion = '1.2'
